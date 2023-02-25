@@ -24,13 +24,13 @@ The easiest way to install SciencePlots is by using `pip`:
 
 ```bash
 # to install the lastest release (from PyPI)
-pip install SciencePlots
+# pip install SciencePlots
 
 # to install the latest commit (from GitHub)
-pip install git+https://github.com/garrettj403/SciencePlots
+pip install git+https://github.com/TiankaiHang/SciencePlots
 
 # to clone and install from a local copy
-git clone https://github.com/garrettj403/SciencePlots.git
+git clone https://github.com/TiankaiHang/SciencePlots.git
 cd SciencePlots
 pip install -e .
 ```
